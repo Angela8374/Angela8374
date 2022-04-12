@@ -1,17 +1,16 @@
-### Hi there 👋
+## Hi there, this is about me. Readme👋
 
-<!--
-**Angela8374/Angela8374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Recently:
+- Although most of my professional experience has been in different work areas, all of them have given me HUMAN VALUE.
+- My last job was as a security guard, and I have the professional qualification of Director and Head of security. I´m also Date Protection Officer (DPO).
+  
+### Personal profile:
+- I consider myself a fighter, positive person with healthy ambition and a desire to improve. I strive every day to give the best version of myself.
+- There are two phrases that describe me:
+1. "If you fall down 7 times get up 8!"
+2. "Labor Omnia Vincit Improbus --> Constant work overcomes all difficulties."
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### Professional profile:
+- I can highlight as an added value of my professional qualities:
+1. Team spirit, loyalty, commitment, ethics and professional integrity.
+2. Organized, formal, compliant and responsible.
