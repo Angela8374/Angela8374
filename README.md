@@ -2,7 +2,7 @@
 
 ### Recently:
 - Although most of my professional experience has been in different work areas, all of them have given me HUMAN VALUE.
-- My last job was as a security guard, and I have the professional qualification of Director and Head of security. I´m also Date Protection Officer (DPO).
+- My last job was as a security guard, and I have the professional qualification of Director and Head of security. I´m also Data Protection Officer (DPO).
   
 ### Personal profile:
 - I consider myself a fighter, positive person with healthy ambition and a desire to improve. I strive every day to give the best version of myself.
